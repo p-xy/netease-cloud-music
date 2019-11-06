@@ -1,0 +1,42 @@
+.homeList{
+    margin-top: 70px;
+    margin-bottom: 40px;
+    
+}  
+.homeList-header{
+    padding-bottom: 5px;
+    border-bottom: 2px solid #C10D0C;
+}
+.homeList-logo {
+    background: url('../../../assets/images/index.png') no-repeat;
+    background-position: -225px -156px;
+    height: 33px;
+    padding: 0 10px 0 34px;
+}
+.homeList-title{
+    font-size: 20px;
+    color: #000;
+}
+.homeList-more{
+    color:#000; 
+    font-size: 12px;
+    text-align:right;
+    margin-top: 10px
+}
+
+.homeList-content {
+    border: 1px solid #D2D2D2;
+    background-color: #F4F4F4;
+    margin-top: 20px;
+    
+}
+.clearfix:after {
+    content: '.';
+    height: 0;
+    display: block;
+    clear: both;
+}
+
+ 
+
+

@@ -1,0 +1,102 @@
+.discoverTop{
+    background-color: #F5F5F5;
+    min-width: 1300px; 
+    .discoverTop-content{
+        padding-top: 35px;
+      
+        border-left: 1px solid #D3D3D3;
+        border-right: 1px solid #D3D3D3; 
+        color:#000;
+        .content-left{
+           .left-cloudMusic{
+                margin-top: 40px;
+                .cloudMusic-title{
+                    padding-left: 15px;
+                    font-size: 14px;
+                    font-weight: bold;
+                    padding-bottom: 10px; 
+                }
+           }
+           .left-globMusic{
+               margin-top:30px;
+               .globMusic-title{
+                    padding-left: 15px;
+                    font-size: 14px;
+                    font-weight: bold;
+                    padding-bottom: 10px; 
+               }
+           }
+        }
+        .content-right{
+            border-left: 1px solid #D3D3D3;
+            background-color: #fff;
+            padding-left: 30px;
+            padding-right: 30px;
+            .content-right-head{
+                margin-top:30px;
+                .head-img{
+                    width: 150px;
+                    height: 150px;
+                    padding: 2px;
+                    border: 1px solid #CCCCCC;
+                }
+                .head-name{
+                    font-size: 20px;
+                    color: #000;
+                    margin-top: 10px;
+                }
+                .head-update{
+                    margin-top: 10px;
+                    font-size: 12px;
+                    color: #666666;
+                }
+                .head-button{
+                    margin-top: 30px;
+                    .button-wrapped{
+                        display: inline-block;
+                    }
+                    button{
+                        vertical-align: bottom;
+                        padding: 3px;
+                    }
+                }
+            }
+        }
+        
+    }
+}
+
+
+.topList-noBG{
+    height: 60px;
+    line-height: 60px;
+}
+.topList-BG{
+    height: 60px;
+    line-height: 60px;
+    background-color: #E6E6E6;
+}
+
+.topList-img-wrapped{
+    padding-left: 20px;
+}
+.topList-item-img{
+    width: 40px;
+    height: 40px;
+  
+}
+.topList-item-name{
+    font-size: 12px;
+    color: #000;
+    line-height: 20px;
+    margin-top: 10px;
+   
+}
+.topList-item-iname{
+    color: #999999;
+    line-height: 20px;
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+

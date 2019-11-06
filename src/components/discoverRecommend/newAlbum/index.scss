@@ -1,0 +1,83 @@
+.new-album{
+    margin-top: 50px;
+}
+.album-title{
+    padding-bottom:5px;
+    border-bottom: 2px solid #C10D0C; 
+}
+.album-title-logo {
+    background: url('../../../assets/images/index.png') no-repeat;
+    background-position: -225px -156px;
+    height: 33px;
+    padding: 0 10px 0 34px;
+}
+.album-title-name{
+    font-size: 20px;
+    color: #000;
+}
+.album-title-more{
+    font-size:12px;
+    text-align: center;
+    margin-top: 10px;
+}
+.album-title-more-title{
+    color: #000 ;
+}
+.more-icon {
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url('../../../assets/images/index.png') no-repeat;
+    background-position: 0 -240px;
+}
+
+.album_content {
+    height: 186px;
+    background-color: #F5F5F5;
+    border: 1px solid #D3D3D3;
+    margin-top: 20px;
+    position: relative;
+}
+.album-content-icon{
+    position: relative;
+    top:40%;
+    font-size:20px;
+    cursor:pointer;
+}
+.album-content-album{
+    margin-top: 30px;
+}
+.fragment{
+    position: relative;
+}
+.fragment-img{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    z-index: 1000;
+    position: relative;
+}
+.fragment-bg {
+    background: url('../../../assets/images/coverall.png') no-repeat;
+    width: 118px;
+    height: 100px;
+    background-position: 0 -570px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+.fragment-name{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #2D2D2D;
+    font-size: 12px; 
+}
+.fragment-artist-name{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 12px;
+    cursor: pointer;
+}

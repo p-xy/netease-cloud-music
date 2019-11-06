@@ -1,0 +1,116 @@
+.discover-album-body{
+    background-color: #F5F5F5;
+    min-width: 1300px;
+    .discover-album-content{
+        background-color: #fff;
+        border-right: 1px solid #D3D3D3;
+        border-left: 1px solid #D3D3D3;
+        padding-left:30px;
+        padding-right:30px;
+        .content-hot-title{
+            margin-top: 60px;
+            margin-bottom:30px;
+            font-size: 24px;
+            color: #333333;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #C20C0C;
+        }
+        .content-hot-album{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            .hot-album-wrap{
+                margin-bottom: 30px;
+                width: 153px;
+                position:relative;
+                .hot-album-img{
+                    width: 130px;
+                    height:130px;
+                    cursor: pointer;
+                    z-index:1000;
+                    position: relative; 
+                }
+                .hot-album-name{
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    color: #2D2D2D;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+                .hot-album-artist{
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+            }
+
+        }
+        .content-title-all-wrap{
+            padding-bottom: 10px;
+            border-bottom: 2px solid #C20C0C;
+            margin-top:20px;
+            margin-bottom:30px;
+            .content-title-all-title{
+                font-size: 24px;
+                color: #333333;
+            } 
+            .content-title-all-area{
+                margin-left:10px;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+        }
+        .content-all-album{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            .all-album-wrap{
+                margin-bottom: 30px;
+                width: 153px;
+                position:relative;
+                .all-album-img{
+                    width: 130px;
+                    height:130px;
+                    cursor: pointer;
+                    z-index:1000;
+                    position: relative; 
+                }
+                .all-album-name{
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    color: #2D2D2D;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+                .all-album-artist{
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                    font-size: 12px;
+                    cursor: pointer;
+                }
+            }
+        }
+        .content-pagination{
+           text-align: center;
+           margin-top: 20px;
+           margin-bottom:40px;
+        }
+    }
+}
+
+.discover-album-content-bg {
+    background: url('../../assets/images/coverall.png') no-repeat;
+    width: 153px;
+    height: 130px;
+    background-position: 0 -845px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

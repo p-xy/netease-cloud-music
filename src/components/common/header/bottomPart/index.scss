@@ -1,0 +1,47 @@
+.bottomPart-wrapper {
+    position: absolute;
+    z-index: 50;
+    background-color: #C20C0C;
+    color: #fff;
+    width: 100%;
+    left: 0px;
+    height:36px;
+    min-width: 1200px;
+    
+}
+
+.nav{
+    height:36px;
+    text-align:center;
+    line-height: 36px;
+}
+   
+.nav a{
+    color:#fff;
+    line-height: 20px;
+    font-size: 12px;
+    height: 20px;
+    text-decoration:none;
+}
+.nav a:hover{ 
+    width: 54px;
+    display: inline-block;
+    background-color: #9B0909;
+    border-radius: 10px;
+    text-decoration:none;
+};
+
+
+.nav a.active{ 
+    width: 54px;
+    display: inline-block;
+    background-color: #9B0909;
+    border-radius: 10px;
+    text-decoration:none;
+}
+
+.test{ 
+/*
+    a.active 是对class=active的a标签生效，
+    a：active 是对按下的a标签生效
+*/}

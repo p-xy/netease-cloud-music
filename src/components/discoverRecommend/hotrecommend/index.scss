@@ -1,0 +1,89 @@
+.hot-title{
+    margin-top:20px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #C10D0C;
+}
+.hot-title-name{
+    font-size: 20px;
+    color: #000;
+}
+.hot-title-tag{
+    font-size: 12px;
+    text-align: center
+}
+.hot-tag-name{
+    font-size: 12px;
+    color: #666666;
+    text-align: center
+    
+    
+}
+.hot-title-logo{
+    background: url('../../../assets/images/index.png') no-repeat;
+    background-position: -225px -156px;
+    height: 33px;
+    padding: 0 10px 0 34px;
+    
+}
+.hot-title-more{
+    font-size: 12px;
+    text-align: right;
+    margin-top: 10px;
+}
+.hot-title-more-color{
+    color: #000;
+}
+
+.hot-content{
+    position:relative;
+    margin-top: 30px;
+    padding-right: 0px;
+    cursor: pointer;
+}
+.hot-content-img{
+    width:100%;
+    height: 140px;
+}
+.hot-content-name{
+   color: #000;
+   font-size: 14px;
+   width: 100%;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+}
+
+.hot-content-shadow{
+    height:27px;
+    line-height:27px;
+    background-color: #000 ;
+    position: absolute;
+    top: 113px;
+    left:20px;
+    right:20px;
+    opacity: 0.4;
+    color:#fff
+}
+.hot-content-tagMusic{
+    float:left;
+    margin-left:5px;
+}
+.hot-content-tagCount{
+    float:left;
+    margin-left:5px;
+}
+.hot-content-tagRight{
+    float: right;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+
+
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;  
+}

@@ -1,0 +1,52 @@
+.hotdj{
+    border-top: 0px;
+    padding-bottom: 30px;
+    padding-top: 20px 
+}
+
+.hotdj-title{
+    font-size:14px;
+    font-weight:bold;
+    color:#000;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+    border-bottom:1px solid #CCCCCC;
+
+}
+.hotdj-icon {
+    width: 11px;
+    height: 13px;
+    background-position: 0 1;
+    background: url('../../../assets/images/icon.png') no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.hotdj-img{
+    width: 80%;
+    height: 80%;
+    margin-Top: 10px;
+    margin-Left: 10px;
+    cursor: pointer;
+}
+.hotdj-name{
+    font-weight:bold;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+    display: inline-block;
+    cursor: pointer;
+    color:#000;
+}
+.hotdj-position{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 90%;
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space:nowrap;
+
+}

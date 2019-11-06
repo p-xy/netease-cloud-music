@@ -1,0 +1,63 @@
+.side-img{ 
+    width: 80px;
+    height: 80px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    cursor: pointer;
+} 
+.side-topList-name{
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.side-fontRed{
+    color: #C93C3B;
+    font-size: 16px;
+    padding-left: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+    text-align: center;
+    width: 35px;
+    height: 32px
+}
+.side-fontWhite{
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 15px;
+    text-align: center;
+}
+.side-colorAdd{
+    background-color: #E8E8E8;
+    height: 32px;
+    line-height: 32px
+}
+
+.side-colorEven{
+    background-color: #F4F4F4;
+    height: 32px;
+    line-height: 32px;
+}
+
+.side-songStyle{
+     font-size: 12px;
+     color: #101010;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     cursor: pointer;
+}
+
+
+.side-more{
+    background-color: #E8E8E8;
+    height: 32px;
+    line-height:32px;
+    width: 100%;
+}
+.side-fontStyle{
+    font-size: 12px;
+    cursor: pointer
+}
