@@ -1,6 +1,8 @@
 import axios from 'axios';
 
+//根据线上情况填写真实ip
 const baseURL = "http://localhost:3000"
+//const baseURL = "http://18.218.243.114:7001"
 /*=============================
         index：首页
 ===============================*/
