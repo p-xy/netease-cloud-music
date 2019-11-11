@@ -8,7 +8,7 @@
     <a href=""><img src="https://img.shields.io/badge/-Redux-brightgreen .svg" alt="Version"></a>
     <a href=""><img src="https://img.shields.io/badge/ React router-red.svg" alt="Version"></a>
     </p>
-    <img height='80%' width='80%' src="https://i.loli.net/2019/11/11/OTi6pX8PARDrkVh.png" alt="picture" >
+    <img height='85%' width='85%' src="https://i.loli.net/2019/11/11/OTi6pX8PARDrkVh.png" alt="picture" >
     </div>
 </div>
 
@@ -52,6 +52,5 @@
 
 ### 参考
 
-[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)
-
-[jiudehuiyi/react-player-music-PC](https://github.com/jiudehuiyi/react-player-music-PC)
+<a href =" https://github.com/Binaryify/NeteaseCloudMusicApi" > Binaryify/NeteaseCloudMusicApi </a>
+<a href ="https://github.com/jiudehuiyi/react-player-music-PC ">jiudehuiyi/react-player-music-PC </a>
