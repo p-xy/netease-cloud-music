@@ -51,6 +51,9 @@
     ```
 
 ### 参考
-
-<a href =" https://github.com/Binaryify/NeteaseCloudMusicApi" > Binaryify/NeteaseCloudMusicApi </a>
-<a href ="https://github.com/jiudehuiyi/react-player-music-PC ">jiudehuiyi/react-player-music-PC </a>
+<p>
+<a href ="https://github.com/Binaryify/NeteaseCloudMusicApi"> Binaryify/NeteaseCloudMusicApi </a>
+</p>
+<p>
+<a href ="https://github.com/jiudehuiyi/react-player-music-PC">jiudehuiyi/react-player-music-PC </a>
+</p>
