@@ -8,7 +8,7 @@
     <a href=""><img src="https://img.shields.io/badge/-Redux-brightgreen .svg" alt="Version"></a>
     <a href=""><img src="https://img.shields.io/badge/ React router-red.svg" alt="Version"></a>
     </p>
-    <img src='static/song.png' alt='song' />
+    <img src="https://i.loli.net/2019/11/11/OTi6pX8PARDrkVh.png" >
 </div>
 
 ## 起源
