@@ -8,7 +8,7 @@
     <a href=""><img src="https://img.shields.io/badge/-Redux-brightgreen .svg" alt="Version"></a>
     <a href=""><img src="https://img.shields.io/badge/ React router-red.svg" alt="Version"></a>
     </p>
-    <img height='85%' width='85%' src="https://i.loli.net/2019/11/11/OTi6pX8PARDrkVh.png" alt="picture" >
+    <img height='85%' width='85%' src="https://i.loli.net/2019/11/11/9GRAx6fjh1Sgolk.png" alt="picture" >
     </div>
 </div>
 
@@ -51,9 +51,11 @@
     ```
 
 ### 参考
-<p>
-<a href ="https://github.com/Binaryify/NeteaseCloudMusicApi"> Binaryify/NeteaseCloudMusicApi </a>
-</p>
-<p>
-<a href ="https://github.com/jiudehuiyi/react-player-music-PC">jiudehuiyi/react-player-music-PC </a>
-</p>
+
+- <a href ="https://github.com/Binaryify/NeteaseCloudMusicApi"> Binaryify/NeteaseCloudMusicApi </a>
+
+- <a href ="https://github.com/jiudehuiyi/react-player-music-PC">jiudehuiyi/react-player-music-PC </a>
+
+## License
+
+[The MIT License (MIT)](https://github.com/XiaoyuPang/netease-cloud-music/blob/master/LICENSE)
